@@ -1,3 +1,7 @@
-var hello = "hello world!";
+console.log("nomecognomecolorepreferito21")
 
-console.log (hello + hello);
+var UserName;
+
+var UserSurname;
+
+var FavColor;
